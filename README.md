@@ -20,9 +20,11 @@ This project presents a Power BI dashboard designed to analyze consultation tren
 - .pbix file: main dashboard
 
 ## 📸 Dashboard Preview
-(Add screenshots here)
+![Dashboard Preview](dashboard.png) 
 
 ## 🚀 How to Use
 1. Download the .pbix file
 2. Open it in Power BI Desktop
+
+3. 
 
