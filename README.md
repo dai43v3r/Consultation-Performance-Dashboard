@@ -1,6 +1,8 @@
 # Consultation-Performance-Dashboard
 Power BI dashboard analyzing consultations trends
 
+## 📸 Dashboard Preview
+![Dashboard Preview](dashboard.png) 
 
 # Power BI Dashboard - Consultations Analysis
 
@@ -18,9 +20,6 @@ This project presents a Power BI dashboard designed to analyze consultation tren
 
 ## 📁 Files
 - .pbix file: main dashboard
-
-## 📸 Dashboard Preview
-![Dashboard Preview](dashboard.png) 
 
 ## 🚀 How to Use
 1. Download the .pbix file
